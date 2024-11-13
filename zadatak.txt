@@ -1,0 +1,22 @@
+Razvijte i trenirajte prilagođeni AI model koji može precizno detektirati i locirati samo dva specifična objekta na slici: ovce i sove. Vaš zadatak je usmjeriti
+model da prepoznaje samo te dvije kategorije objekata koristeći YOLO8 (You Only Look Once) framework.
+
+Tehnički zahtjevi
+
+    Dataset:
+        Upotrijebite dataset OpenImagesV7 koji sadrži označene slike ovaca i sova.
+        Link za dataset: OpenImagesV7
+        Upute za preuzimanje: Download OpenImagesV7
+    Trening Modela:
+        Počnite s nekim od već istreniranih modela dostupnim na Ultralytics web stranici.
+        "Dotrenirajte" ovaj model tako da prepoznaje i locira samo ovce i sove.
+        Budući da je fokus na procesu i načinu izrade, slobodno odaberite manji broj slika ili manji broj epoha za trening kako biste smanjili vrijeme i resurse potrebne za trening.
+    Isporuka Rješenja:
+        Predajte rješenje kao GitHub repozitorij koji sadrži vašu implementaciju (Python skripte, Jupyter notebooks i slično).
+        Uključite upute za pokretanje modela.
+        Uploadajte output posljednjeg uspješnog treninga (na WeTransfer, Google Drive, itd.) i priložite link za preuzimanje.
+
+Očekivanja: Očekujemo razvijen i efikasno treniran model koji može specifično detektirati ovce i sove na slikama. Vaš kod treba biti čist, dobro dokumentiran,
+ a implementacija treba pokazati razumijevanje. Fokus je na vašem pristupu problemu i načinu rada, a ne nužno na krajnjoj točnosti modela.
+
+Drugi zadatak, odnosno za developera je:

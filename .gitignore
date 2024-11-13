@@ -1,0 +1,4 @@
+/runs
+/open-images-v7/test/*
+/open-images-v7/train/*
+/open-images-v7/validation/*
